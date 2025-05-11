@@ -1,0 +1,23 @@
+{
+    "id": "dice-rng-protector-lite",
+    "title": "Dice RNG Protector Lite",
+    "description": "Provides protection against common ways of cheating.",
+    "version": "0.3.0",
+    "compatibility": {
+        "minimum": "12",
+        "verified": 13.342
+    },
+    "authors": [
+        {
+            "name": "JDR Ninja"
+        }
+    ],
+    "esmodules": [
+        "/scripts/main.js"
+    ],
+    "url": "https://github.com/JDR-Ninja/foundryvtt-dice-cheater-protector-lite",
+    "download": "https://github.com/JDR-Ninja/foundryvtt-dice-cheater-protector-lite/releases/download/0.3.0/dice-rng-protector-lite.zip",
+    "manifest": "https://github.com/JDR-Ninja/foundryvtt-dice-cheater-protector-lite/releases/latest/download/module.json",
+    "bugs": "https://github.com/JDR-Ninja/foundryvtt-dice-cheater-protector-lite/issues",
+    "readme": "https://github.com/JDR-Ninja/foundryvtt-dice-cheater-protector-lite/blob/master/README.md"
+}
