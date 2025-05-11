@@ -1,0 +1,1 @@
+# foundryvtt-dice-cheater-protector-lite
